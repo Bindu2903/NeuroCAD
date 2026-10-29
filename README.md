@@ -4,7 +4,7 @@ A clean, modular CAD (Computer-Aided Diagnosis) framework implementing the 4 bra
 
 ---
 
-## 📁 Supported Local Datasets (3 Only - No MSD)
+## 📁 Supported Local Datasets 
 
 All datasets are loaded directly from your local `~/Downloads/` directory:
 1. **Kaggle Brain MRI (`~/Downloads/kaggle/`):**
